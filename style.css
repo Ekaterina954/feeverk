@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background-color: #AFEEEE;
+}
+
+header {
+    background-color:#AFEEEE;  
+}
+
+h1{
+    border:5px solid magenta ;
+    border-radius: 15px;
+}
+
+footer p {
+    border: 5px solid blue;
+    border-radius: 15px;
+}
+
+nav a {
+  border: 5px solid blue;  
+  border-radius: 15px;
+  background-color: blue;
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
+
+select option {
+    background-color: blue;
+}
+
+
+header a {
+  border: 5px solid blue;
+  border-radius: 15px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+select {
+    border: 5px solid blue;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.fon {
+  border: 5px solid #6495ED;  
+  border-radius: 15px;
+  background-color: #6495ED;
+}
+
+main h2 {
+    color: blue;
+}
+
+main p {
+    font-size: 20px;
+}
+
+main {
+    margin: 10px;
+}
+
+main a {
+   border: 2px solid darkblue;
+    color: darkblue;
+}
+
